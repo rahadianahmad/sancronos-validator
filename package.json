@@ -2,7 +2,7 @@
   "name": "sancronos-validator",
   "version": "1.2.0",
   "description": "Cron expression validator",
-  "engineStrict": true,
+  "engineStrict": false,
   "engines": {
     "node": "^6.9.4"
   },
