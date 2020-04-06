@@ -4,7 +4,7 @@
   "description": "Cron expression validator",
   "engineStrict": false,
   "engines": {
-    "node": "^6.9.4"
+    "node": "10"
   },
   "main": "index.js",
   "scripts": {
